@@ -2,7 +2,7 @@ import java.awt.*;
 import java.sql.*; 
 import java.time.LocalDateTime;
 import javax.swing.*;
-import javax.swing.table.DefaultTableModel; 
+import javax.swing.table.DefaultTableModel;  
 
 // 🎬 Movie Review App with Swing GUI + MySQL (Single File)
 public class movie extends JFrame {
