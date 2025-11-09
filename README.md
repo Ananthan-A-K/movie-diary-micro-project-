@@ -43,13 +43,11 @@ Copy mysql-connector-j-9.4.0.jar into your project folder.
 
 Compile the Program
 
-bash
-Copy code
+
 javac -cp ".;mysql-connector-j-9.4.0.jar" MovieReviewApp.java
 Run the Program
 
-bash
-Copy code
+
 java -cp ".;mysql-connector-j-9.4.0.jar" MovieReviewApp
 (Use : instead of ; on macOS/Linux)
 
@@ -81,19 +79,7 @@ Abstraction	Database details hidden behind methods
 Inheritance	Extensible design for future admin/user roles
 Polymorphism	Supports method overloading/overriding
 
-🖥️ Example Output
-text
-Copy code
-===============================
- MOVIE REVIEW SYSTEM
-===============================
-1. Register
-2. Login
-3. Exit
-Enter choice: 1
-Enter username: anant
-Enter password: ****
-✅ User registered successfully!
+
 🏁 Learning Outcomes
 Applied OOP principles in a real-world scenario
 
@@ -103,11 +89,3 @@ Implemented a modular Java program with persistent data
 
 Improved understanding of system design and database integration
 
-📚 References
-E. Balagurusamy, Object-Oriented Programming with Java
-
-Oracle Java Documentation
-
-MySQL Connector/J Documentation
-
-TutorialsPoint / GeeksforGeeks – JDBC and OOPs Concepts
